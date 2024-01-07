@@ -1,7 +1,8 @@
 
 - 👋 Hi, I’m @Sadam Hussain
 - 👀 Interested in Coding 
-- 🌱 Currently learning Python
+- 🤓 finished python course from Udemy
+- 🌱 Currently learning Fullstack..... 
 - 💞️ I’m looking to collaborate on GitHub 
 - 📫 sadamsh2001@gmail.com
 
